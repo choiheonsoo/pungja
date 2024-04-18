@@ -5,6 +5,7 @@ public class Animal {
 	// 아시겠죠?
 	private double weight;
 	private String name;
+	private int age;
 	
 	public String getName() {
 		return this.name;
@@ -18,6 +19,9 @@ public class Animal {
 		this.weight = weight;
 	}
 	
+	public int getAge() {
+		return this.age;
+	}
 	
 	
 	
