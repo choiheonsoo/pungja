@@ -5,6 +5,7 @@ public class Kimmyungjun {
 	private int age;
 	private double weight;
 	private char gender;
+	private String address;
 	public Kimmyungjun() {
 		// TODO Auto-generated constructor stub
 	}
